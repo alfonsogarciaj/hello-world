@@ -1,2 +1,3 @@
 # hello-world
-Mi primer repositorio en GitHub :0
+Mi primer repositorio en GitHub 😲
+Me encanta el ☕ 🍔 
